@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AA559D04-7467-BFBD-D7CF-300948E12B5C}") = "arduinounitylight", "Assembly-CSharp.csproj", "{DD4CE909-69CC-DB28-964A-7E22550A48AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4CE909-69CC-DB28-964A-7E22550A48AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4CE909-69CC-DB28-964A-7E22550A48AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4CE909-69CC-DB28-964A-7E22550A48AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4CE909-69CC-DB28-964A-7E22550A48AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
