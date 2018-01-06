@@ -1,6 +1,35 @@
-# arduinounitylight  
+Name
+arduino_unitylight  
 
-arduinoをUGUIからserial通信で操作  
-arduino(C++)とunity(C#)を接続。  
-こちらはunity(C#)側のコード。
+Overview
 
+## Description  
+unity上のuguiにボタンを配置。そのボタンをクリックドリブンで、arduinoにつないである数種類の電球をLチカさせる。
+-こちらはunity(C#)側のコード。
+
+## Demo
+あとではる。
+
+## VS. 
+
+## Requirement
+-arudino
+-ワイヤー
+-電球
+-usbケーブル
+
+-unity画面上で必要なUGUIとarduinoを操作するためのunity(C#)側のコード。
+
+## Usage
+1.arduinoをシリアル通信で接続
+2.arduinoにLチカ用のセッティング
+3.Unity上にuguiのボタンを設定。C#で動作をかく。
+
+## Install
+
+## Contribution
+
+## Licence
+
+
+## Author
