@@ -27,6 +27,8 @@ unity上のuguiにボタンを配置。そのボタンをクリックドリブ�
 
 ## Contribution
 
-## Licence
-
 ## Author
+tkcolorado
+
+## Licence
+MIT license (© 2017-2018 tkcolorado)
