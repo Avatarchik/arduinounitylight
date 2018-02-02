@@ -1,7 +1,6 @@
 ## Name  
-arduino_unitylight  
+Arduino_unitylight  
 
-## Overview
 ## Description   
 unity上のuguiにボタンを配置。そのボタンをクリックドリブンで、arduinoにつないである数種類の電球をLチカさせる。  
 -こちらはunity(C#)側のコード。
@@ -13,15 +12,13 @@ unity上のuguiにボタンを配置。そのボタンをクリックドリブ�
 
 ## Requirement
 -arduino  
--ワイヤー  
--電球  
--usbケーブル  
--unity画面上で必要なUGUIとarduinoを操作するためのunity(C#)側のコード。
-
-## Usage
-1.arduinoをシリアル通信で接続  
-2.arduinoにLチカ用のセッティング  
-3.Unity上にuguiのボタンを設定。C#で動作をかく。  
+-wire  
+-light
+-usb cable 
+-UGUI(Unity Graphic User Interface):we click the UGUI(red/yellow/blue)to manipulate the each color of the lights. I code the C# to develop UGUI.
+  1.connect the arduino via serial communication.  
+  2.setting the arduino to 'L-chika' 
+  3.setting the button on UGUI. And then I code the C# to create the event-driven(turn on the light of each color). 
 
 ## Install
 
