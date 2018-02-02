@@ -2,20 +2,20 @@
 Arduino_unitylight  
 
 ## Description   
-unity上のuguiにボタンを配置。そのボタンをクリックドリブンで、arduinoにつないである数種類の電球をLチカさせる。  
--こちらはunity(C#)側のコード。
+- setting the buttun on Unity. And then by the click-driven, I was about to turn on the light from the color of the button.
+- this repository is the side of C#(UGUI).
 
 ## Demo
-あとではる。  
+attach something latar  
 
 ## VS. 
 
 ## Requirement
--arduino  
--wire  
--light
--usb cable 
--UGUI(Unity Graphic User Interface):we click the UGUI(red/yellow/blue)to manipulate the each color of the lights. I code the C# to develop UGUI.
+- arduino  
+- wire  
+- light
+- usb cable 
+- UGUI(Unity Graphic User Interface):we click the UGUI(red/yellow/blue)to manipulate the each color of the lights. I code the C# to develop UGUI.
   1.connect the arduino via serial communication.  
   2.setting the arduino to 'L-chika' 
   3.setting the button on UGUI. And then I code the C# to create the event-driven(turn on the light of each color). 
